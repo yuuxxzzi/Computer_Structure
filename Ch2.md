@@ -52,4 +52,7 @@
 
 `2의 보수(two's complement)`
 
-:
+: 
+
+ push 체크 중
+
